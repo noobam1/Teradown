@@ -1,3 +1,4 @@
+
 import os
 import json
 import requests
@@ -6,8 +7,8 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackContex
 from telegram.ext import filters  # यहाँ 'filters' इस्तेमाल करें
 from bs4 import BeautifulSoup
 
-TOKEN = "YOUR_BOT_TOKEN"
-ADMINS = [123456789]
+TOKEN = "7461025500:AAEAQL3W2enqzT23qDrw-OirqQAux9c5w7E"
+ADMINS = [708030615]
 
 # ... (बाकी कोड अपडेट नहीं हुआ है)
 
