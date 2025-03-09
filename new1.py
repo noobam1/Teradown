@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # ================== CONFIGURATION ==================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your bot's token
+BOT_TOKEN = "7461025500:AAEAQL3W2enqzT23qDrw-OirqQAux9c5w7E"  # Replace with your bot's token
 ADMIN_IDS = [708030615, 6063791789]  # Admin IDs
 USER_DATA_FILE = "user_data.json"
 MAX_FREE_DOWNLOADS = 5
