@@ -9,8 +9,8 @@ from telegram.ext import filters
 from bs4 import BeautifulSoup
 
 # ================== CONFIGURATION ==================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]  # Add your Telegram ID
+BOT_TOKEN = "7461025500:AAEAQL3W2enqzT23qDrw-OirqQAux9c5w7E"
+ADMIN_IDS = [708030615, 6063791789]  # Add your Telegram ID
 USER_DATA_FILE = "user_data.json"
 TERABOX_DOMAINS = [
     "terabox.com", "teraboxapp.com", "www.terabox.com",
