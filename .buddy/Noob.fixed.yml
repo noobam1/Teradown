@@ -5,3 +5,11 @@
     - refs/heads/main
   fail_on_prepare_env_warning: true
   resources: X2LARGE
+  actions:
+  - action: Deploy to AWS ECS
+    type: AWS_ECS
+    local_path: /bgmi
+    cluster: My_cluster
+    service: 'Noob '
+    region: ap-southeast-1
+    integration: amazon_web_services
